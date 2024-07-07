@@ -64,3 +64,7 @@ npm run dev
 
 ## Screenshots
 
+![Dashboard Screenshot 1](https://github.com/Mohammad-Muzaffar/Ethnus-Codemithra-Challenge/blob/main/Images/Dashboard_1.png)
+
+![Dashboard Screenshot 1](https://github.com/Mohammad-Muzaffar/Ethnus-Codemithra-Challenge/blob/main/Images/Dashboard_2.png)
+
