@@ -28,7 +28,7 @@ Create a `.env` file in the root of the `backend` folder and add the following v
 
 ```bash
 PORT=5000
-MONGO_URL=your_mongodb_connection_string
+DB_URL=your_mongodb_connection_string
 ```
 ## Install Dependencies
 
